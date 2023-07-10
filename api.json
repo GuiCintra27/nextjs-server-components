@@ -1,0 +1,104 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "name": "BMW",
+      "price": 110
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "name": "Twitter",
+      "price": 8
+    },
+    {
+      "name": "tesla",
+      "price": "1",
+      "id": 5
+    },
+    {
+      "name": "a2",
+      "price": "2",
+      "id": 6
+    },
+    {
+      "name": "a3",
+      "price": 3,
+      "id": 7
+    },
+    {
+      "name": "a4",
+      "price": "4",
+      "id": 8
+    },
+    {
+      "name": "a5",
+      "price": "5",
+      "id": 9
+    },
+    {
+      "name": "a6",
+      "price": "6",
+      "id": 10
+    },
+    {
+      "name": "KIA",
+      "price": 100,
+      "id": 11
+    },
+    {
+      "name": "Facebook",
+      "price": 100,
+      "id": 12
+    },
+    {
+      "name": "Guilherme",
+      "price": "12121",
+      "id": 13
+    },
+    {
+      "name": "sasa",
+      "price": "12",
+      "id": 14
+    },
+    {
+      "name": "aaaa",
+      "price": "1",
+      "id": 15
+    },
+    {
+      "name": "aaaa",
+      "price": "1",
+      "id": 16
+    },
+    {
+      "name": "aaaa",
+      "price": "1",
+      "id": 17
+    },
+    {
+      "name": "aaaa",
+      "price": "1",
+      "id": 18
+    },
+    {
+      "name": "aaaa",
+      "price": "1",
+      "id": 19
+    },
+    {
+      "name": "aaaa",
+      "price": "1212",
+      "id": 20
+    }
+  ]
+}
